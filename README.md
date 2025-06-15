@@ -2,7 +2,7 @@
 ### Project Overview
 An interactive HR Analytics Dashboard built in Power BI to help the HR team to gain actionable insights into workforce dynamics, promotion eligibility, job satisfaction, and strategic workforce planning.
 ### Data Source
-HR Analytics Data: The primary dataset for this analysis is the "HR Analytics Data.csv" file,containing detailed information about employees in the company.
+The dataset was obtained from a publicly available YouTube tutorial on HR dashboard creation in Power BI. The data was used strictly for learning and demonstration purposes. It was cleaned and enhanced using Power Query, with additional columns created to support HR metrics such as promotion eligibility, retention, and satisfaction analysis.
 ### Tools
 - Power Query Editor for data cleaning and transformation.
 - DAX for calculations and metrics.
